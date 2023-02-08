@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eliel Dutra 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-calebe-porto-dutra-b301211b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliel-porto-dutra-b301211b1)
 
 ![elielpdutra GitHub stats](https://github-readme-stats.vercel.app/api?username=elielpdutra&show_icons=true&theme=radical)
 
