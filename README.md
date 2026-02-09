@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-porto-dutra-b301211b1/)
 
-![elielpdutra GitHub stats](https://github-readme-stats.vercel.app/api?username=elielpdutra&show_icons=true&theme=radical)
+[![Eliel Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=elielpdutra)](https://github.com/elielpdutra/github-readme-stats)
 <br/>
 ![elielpdutra](https://github-readme-stats.vercel.app/api/top-langs/?username=elielpdutra&theme=tokyonight&custom_title=Linguagens_mais_usadas&langs_count=10&card_width=450px)<br/>
 
