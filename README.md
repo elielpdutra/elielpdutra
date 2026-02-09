@@ -1,5 +1,5 @@
 <h2>
-  👋 Fala! Eu sou o Eliel Porto
+  👋 Olá, eu sou o Eliel Porto
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
@@ -7,13 +7,12 @@
 
 <p>
   <em>
-    Desenvolvedor Web em formação • Apaixonado por tecnologia, sistemas e ideias de negócio 🚀  
+    Desenvolvedor Web em evolução • Experiência com sistemas reais, do legado ao moderno  
     <br/>
-    Foco atual: <b>Front-end + Base sólida em programação</b>
+    Foco em <b>fundamentos sólidos, sistemas web e crescimento profissional</b>
   </em>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliel%20Porto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
 ![GitHub followers](https://img.shields.io/github/followers/elielpdutra?label=Follow&style=social)
 
 ---
@@ -21,47 +20,63 @@
 ## 🧠 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 💻 Estudando e praticando **desenvolvimento web**
-- 🚀 Interesse em **SaaS, sistemas web e automação**
-- 📈 Evolução constante, um passo por vez
+- 💻 Atuação prática com **sistemas reais em ambiente corporativo**
+- 🧩 Experiência tanto com **código legado** quanto com **stack moderna**
+- 🚀 Interesse em **sistemas web, SaaS e automação**
+- 🌎 Objetivo de longo prazo: **trabalhar remoto para o exterior**
+- 📈 Evolução constante, focado em base técnica e responsabilidade
 
-> *“Todo empenho e dedicação são recompensados. Tudo acontece no tempo certo.”*
+> *“Consistência no aprendizado vale mais do que atalhos.”*
 
----
 
-## 🚀 Tecnologias que estudo e utilizo
+## 🚀 Tecnologias
 
-### 🧩 Front-end
+### Linguagens & Base
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### 🧠 Fundamentos & Ferramentas
-![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)
+### Backend & Banco
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-## 🧑‍💻 Um pouco mais sobre mim (em código)
+## 📚 Atualmente aprendendo e consolidando
+
+- JavaScript moderno (ES6+)
+- React (boas práticas e organização)
+- TypeScript aplicado a projetos reais
+- Arquitetura de sistemas web
+- Escrita de código mais limpo e manutenível
+
+---
+
+## 🧑‍💻 Perfil em código
 
 ```javascript
 const eliel = {
   name: "Eliel Porto",
-  role: "Web Developer (in progress)",
   education: "Analysis and Systems Development",
-  focus: ["HTML", "CSS", "JavaScript", "React"],
-  interests: [
-    "Web development",
-    "SaaS ideas",
-    "Systems",
-    "Automation",
-    "Continuous learning"
-  ],
-  tools: ["Git", "GitHub", "MySQL", "GitLab", "Bootstrap"],
-  currentGoal: "Become a solid web developer and work remotely in the future",
-  mindset: "Consistency beats intensity"
+  role: "Web Developer (in progress)",
+  experience: ["Legacy Systems", "Modern Fullstack"],
+  stacks: {
+    legacy: ["PHP", "MySQL", "Vanilla JS"],
+    modern: ["React", "TypeScript", "Node.js", "Prisma"]
+  },
+  interests: ["Web systems", "SaaS", "Automation"],
+  mindset: "Build solid foundations before scaling"
 };
