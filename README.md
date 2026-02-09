@@ -70,7 +70,7 @@
 
 ```javascript
 const eliel = {
-  name: "Eliel Porto",
+  name: "Eliel Calebe Porto Dutra",
   education: "Analysis and Systems Development",
   role: "Web Developer (in progress)",
   experience: ["Legacy Systems", "Modern Fullstack"],
