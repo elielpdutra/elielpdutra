@@ -1,20 +1,67 @@
-## Olá! Eu sou o Eliel Dutra 👋
+<h2>
+  👋 Fala! Eu sou o Eliel Porto
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-porto-dutra-b301211b1/)
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
-[![Eliel Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=elielpdutra)](https://github.com/elielpdutra/github-readme-stats)
-<br/>
-![elielpdutra](https://github-readme-stats.vercel.app/api/top-langs/?username=elielpdutra&theme=tokyonight&custom_title=Linguagens_mais_usadas&langs_count=10&card_width=450px)<br/>
+<p>
+  <em>
+    Desenvolvedor Web em formação • Apaixonado por tecnologia, sistemas e ideias de negócio 🚀  
+    <br/>
+    Foco atual: <b>Front-end + Base sólida em programação</b>
+  </em>
+</p>
 
-### Tecnologias que estudo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliel%20Porto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
+![GitHub followers](https://img.shields.io/github/followers/elielpdutra?label=Follow&style=social)
 
-<div style="display: inline_block"> <br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<!--   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
-</div> <br> 
+---
 
-Todo empenho e dedicação é recompensado, tudo acontece no tempo certo então vamos aproveitar a trajetória!
+## 🧠 Sobre mim
+
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+- 💻 Estudando e praticando **desenvolvimento web**
+- 🚀 Interesse em **SaaS, sistemas web e automação**
+- 📈 Evolução constante, um passo por vez
+
+> *“Todo empenho e dedicação são recompensados. Tudo acontece no tempo certo.”*
+
+---
+
+## 🚀 Tecnologias que estudo e utilizo
+
+### 🧩 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### 🧠 Fundamentos & Ferramentas
+![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 🧑‍💻 Um pouco mais sobre mim (em código)
+
+```javascript
+const eliel = {
+  name: "Eliel Porto",
+  role: "Web Developer (in progress)",
+  education: "Analysis and Systems Development",
+  focus: ["HTML", "CSS", "JavaScript", "React"],
+  interests: [
+    "Web development",
+    "SaaS ideas",
+    "Systems",
+    "Automation",
+    "Continuous learning"
+  ],
+  tools: ["Git", "GitHub", "MySQL", "GitLab", "Bootstrap"],
+  currentGoal: "Become a solid web developer and work remotely in the future",
+  mindset: "Consistency beats intensity"
+};
