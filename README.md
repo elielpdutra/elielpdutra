@@ -22,8 +22,6 @@
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 💻 Atuação prática com **sistemas reais em ambiente corporativo**
 - 🧩 Experiência tanto com **código legado** quanto com **stack moderna**
-- 🚀 Interesse em **sistemas web, SaaS e automação**
-- 🌎 Objetivo de longo prazo: **trabalhar remoto para o exterior**
 - 📈 Evolução constante, focado em base técnica e responsabilidade
 
 > *“Consistência no aprendizado vale mais do que atalhos.”*
